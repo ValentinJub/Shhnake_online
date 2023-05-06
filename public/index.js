@@ -177,3 +177,4 @@ function reset() {
   gameScreenHeader.style.display = 'none';
   gameOverScreen.style.display = 'none';
 }
+
